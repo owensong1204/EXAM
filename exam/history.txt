@@ -1,0 +1,233 @@
+   69  cp /c/Users/A00969591/index.html git/index2.html
+   70  cp /c/Users/A00969591/index.html git/index3.html
+   73  cp style.css git/
+   74  cp js.js git/
+   75  cd git
+   76  git clone https://github.com/owensong1204/owensong.git
+   86  mkdir git
+   92  mkdir git
+   93  cp index.html git/
+   94  cp /c/Users/A00969591/index.html git/ 
+   95  cp /c/Users/A00969591/index.html git/index1.html 
+   96  cp /c/Users/A00969591/index.html git/index2.html 
+   97  cp /c/Users/A00969591/index.html git/index3.html 
+  100  cp style.css git/
+  101  cp js.js git/
+  102  cd git
+  103  git clone https://github.com/owensong1204/owens.git
+  118  git add js imag css
+  119  git add js img css
+  120  git status
+  121  git commit -m "beauty"
+  122  git push origin master
+  124  cp /c/Users/A00969591/Desktop/git/index1.html owens/
+  130  git status
+  132  git status
+  133  git add css js index1.html index2.html index3.html 
+  134  git add .
+  135  git status
+  136  git commit -m "added files"
+  137  git pull --no-edit
+  138  git push origin master
+  141  git add index1.html
+  142  git commit -m "added index1.html"
+  143  git push --no-edit
+  144  git pull --no-edit
+  145  git push origin master
+  146  git branch v0.0.1
+  148  git commit -m "removed index2.html index3.html"
+  149  git push --no-edit
+  150  git push origin master
+  151  git pull --no-edit
+  152  git push origin v0.0.1
+  160  mkdir git
+  161  cp ../index.html ./git
+  162  cp ../index.html ./git/index1.html
+  163  cp ../index.html ./git/index2.html
+  164  cp ../index.html ./git/index3.html
+  166  cp syle.css ./git
+  167  cp style.css ./git
+  168  cp js.js ./git
+  170  cd git
+  171  git clone https://github.com/owensong1204/owen1204.git
+  174  git commit -m "added 3 directories"
+  180  mkdir git
+  181  cp ../index.html ./git
+  182  cp ../index.html ./git/index1.html
+  183  cp ../index.html ./git/index2.html
+  184  cp ../index.html ./git/index3.html
+  186  cp style.css ./git
+  187  cp js.js ./git
+  188  cd git
+  189  git clone https://github.com/owensong1204/owensong89.git
+  192  git add js img css
+  193  git commit -m "added new directories"
+  194  git push origin master
+  201  git add js css img
+  207  mkdir git
+  208  cp ../index.html ./git
+  213  mkdir git
+  219  mkdir git
+  220  cp ../index.html ./git
+  221  cp ../index.html ./git/index1.html
+  222  cp ../index.html ./git/index2.html
+  223  cp ../index.html ./git/index3.html
+  225  cp style.css ./git
+  226  cp js.js ./git
+  228  cd git
+  229  git clone 
+  230  A00969591@SE06L0107-15 MINGW32 /c/Users/A00969591/Desktop/git/owensong89 (master)
+  231  $ git add js css img
+  232  A00969591@SE06L0107-15 MINGW32 /c/Users/A00969591/Desktop/git/owensong89 (master)
+  235  git clone https://github.com/owensong1204/owenssy.git
+  244  git add js css img
+  245  git commit -m "added three directories"
+  246  git push origin master
+  260  git status
+  262  git status
+  263  git add
+  264  git add .
+  265  git commit -m "added something"
+  266  git push origin master
+  269  git add .
+  270  git commit -m "added title"
+  271  git pull --no-edit
+  272  git push origin master
+  273  git branch v0.0.1
+  274  git checkout v0.0.1
+  275  git rm index2.html index3.html
+  276  git add .
+  277  git commit -m "removed index 2 and 3"
+  278  git push origin v0.0.1
+  280  git checkout master
+  283  cp *.jpg ../git/owenssy/img
+  286  cp *.jpg ../git/owenssy/img
+  287  cp *.JPG ../git/owenssy/img
+  288  cp /c/Users/A00969591/Desktop/*.JPG git/owenssy/img/
+  289  cd git
+  291  git add .
+  292  git commit -m "added images"
+  293  git pull --no-edit
+  294  git push origin master
+  295  git checkout v0.0.1
+  297  git merge master
+  298  git add .
+  299  git commit -m "added something more"
+  300  git pull --no-edit
+  301  git push origin v0.0.1
+  308  cp -r git back up
+  309  cp -r git backup
+  314  mv image.txt ./git/owenssy
+  315  mv html.txt ./git/owenssy
+  316  cd git
+  318  git add .
+  319  git commit -m "added something"
+  320  git pull --no-edit
+  321  git push origin master
+  332  mkdir git
+  333  cp /c/Users/A00969591/index.html git/
+  334  cp /c/Users/A00969591/index.html git/index1.html
+  335  cp /c/Users/A00969591/index.html git/index2.html
+  336  cp /c/Users/A00969591/index.html git/index3.html
+  338  cp style.css git/
+  339  cp js.js git/
+  340  cd git
+  341  git clone https://github.com/owensong1204/bye.git
+  348  git status
+  349  git add *
+  350  git status
+  351  git commit -m 
+  352  git commit -m "added 3 directories"
+  353  git push origin master
+  361  git status
+  362  git add *
+  363  git add *.
+  364  git add *
+  365  git status
+  366  git commit -m "added files"
+  367  git pull origin master
+  368  git pull --no-edit
+  369  git push origin master
+  371  git add *
+  372  git commit -m "edited some more"
+  373  git pull --no-edit
+  374  git push origin master
+  375  git brance v0.0.1
+  376  git branch v0.0.1
+  377  git checkout
+  378  git checkout v0.0.1
+  379  git merge
+  381  git add *
+  382  git status
+  383  git commit -m "deleted 2 files
+  384  git
+  385  git commit -m "dede"
+  424  mkdir git
+  425  cd git
+  426  git clone https://github.com/owensong1204/EXAM.git
+  431  cp -r /c/Users/A00969591/Desktop/git/
+  434  cd git
+  435  cp /c/Users/A00969591/exam/index.html git/
+  436  cp /c/Users/A00969591/exam/index.html /c/Users/A00969591/Desktop/git
+  437  cp /c/Users/A00969591/exam/js.js /c/Users/A00969591/Desktop/git
+  438  cp /c/Users/A00969591/exam/style.css /c/Users/A00969591/Desktop/git
+  449  git add *
+  450  git clone 
+  452  cd git
+  453  cd .git
+  454  cp -r /c/Users/A00969591/exam/ /c/Users/A00969591/Desktop/git/EXAM/.git
+  458  git add *
+  459  git commit -m "added files and deleted"
+  463  git add *
+  465  git add *
+  466  git status
+  467  git commit "added files deleted files"
+  468  git add ./
+  469  git commit -m "added files"
+  470  git push origin master
+  473  git branch v2.0
+  478  git branch v2.0
+  479  git checkout v2.0
+  480  git push origin v2.0
+  481  git check master
+  482  git checkout master
+  484  git add *
+  485  git commit -m "added"
+  486  git push origin master
+  487  git branch v3.0
+  488  git branch v3.0
+  489  git checkout v3.0
+  490  git push orihin v3.0
+  491  git push origin v3.0
+  522  mkdir git
+  523  cd git
+  524  git clone https://github.com/owensong1204/EXAM.git
+  528  git add *.
+  529  git add .
+  530  git commit -m "added folder and deleted 2 files"
+  531  git push origin master
+  536  git branch v2.0
+  537  git checkout v2.0
+  538  git add .
+  539  git commit -m "remoced file and switched the branch"
+  540  git push origin v2.0
+  541  git checkout master
+  544  git add .
+  545  git commit -m "edited more in index.html"
+  546  git push origin master
+  547  git checkout v2.0
+  548  git merge v2.0
+  549  git merge master
+  550  git push origin v2.0
+  551  git push origin v2.0
+  553  git branch v3.0
+  554  git checkout v3.0
+  555  git push origin v3.0
+  556  git checkout master
+  558  git add .
+  559  git commit -m "added more in index.html"
+  560  git push origin master
+  561  git checkout v3.0
+  562  git merge master
+  564  git checkout master
+  568  history | grep "git" > history.txt
